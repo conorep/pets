@@ -1,5 +1,11 @@
 <?php
 
+/*
+ * authors: Connor O'Brien, Pavel Krokhalev, Colton Marty
+ * date: 1/25/2022
+ * description: Controller for the Pets Pair Programming assignment.
+ */
+
 // Turn on error reporting
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
