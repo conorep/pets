@@ -1,2 +1,2 @@
 # pets
-pets paired prorgram, Colton and Conor, SDEV328
+pets paired prorgram, Colton, Conor, and Pavel, SDEV328
